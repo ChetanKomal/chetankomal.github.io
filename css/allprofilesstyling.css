@@ -269,7 +269,10 @@ a.link:hover {
     background-color: #1da1f2;
     box-shadow: 8px 8px 14px -8px #1da1f2;
 }
-
+.fk {
+    background-color: #2b3137;
+    box-shadow: 8px 8px 14px -8px #7f8d9e;
+}
 
 .Github {
     background-color: #2b3137;
